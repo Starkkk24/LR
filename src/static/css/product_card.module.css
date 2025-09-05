@@ -1,0 +1,9 @@
+.Card_wrap{
+    display: flex;
+    flex-direction: column;
+    background-color: chartreuse;
+    color: black;
+    height: 20rem;
+    /* width: 18rem; */
+    padding: 1rem;
+}

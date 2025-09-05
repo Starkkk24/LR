@@ -1,0 +1,10 @@
+.Section_wrap {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+    gap: 1.5rem;
+    margin: 1rem;
+
+}
+p{
+    margin-left: 1rem;
+}
