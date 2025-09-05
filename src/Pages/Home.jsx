@@ -5,7 +5,7 @@ import Product_Card from "../components/product_card"
 function Home(){
     return(
         <>
-            <p>This is Home!</p>
+            <h1>This is Home!</h1>
             <div className={Styles.Section_wrap}>
                 <div><Product_Card/></div>
                 <div><Product_Card/></div>

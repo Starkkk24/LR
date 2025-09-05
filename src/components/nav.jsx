@@ -15,7 +15,6 @@ function Nav(){
             </div>
             <div className={Styles.navele}>
                 <button>right</button>
-                <button>right</button>
 
             </div>
         </nav >
