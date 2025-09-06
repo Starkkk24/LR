@@ -1,9 +1,34 @@
 .Card_wrap{
     display: flex;
     flex-direction: column;
-    background-color: chartreuse;
+    gap: 1rem;
+    /* background-color: chartreuse; */
     color: black;
-    height: 20rem;
-    /* width: 18rem; */
     padding: 1rem;
+}
+.up{
+    /* padding: 1rem; */
+    background-color: #242424;
+    border-radius: 0.65rem;
+    height: 20rem;
+    width: 20rem;
+}
+.down{
+    /* padding: 1rem; */
+    background-color: #242424;
+    /* border: 2px solid white; */
+    border-radius: 0.65rem;
+    color: white;
+}
+h3,p,hr{
+    padding: 0;
+    margin: 0;
+}
+
+.image{
+    height: 20rem;
+    width: 20rem;
+    border: 2px solid white;
+    border-radius: 0.65rem;
+
 }

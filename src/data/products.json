@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "img": "../src/static/img/mw.jpg",
+    "p_name": "MW ColorBlend",
+    "p_cate": "Regular Ts",
+    "p_price": 499
+  },
+  {
+    "id": 2,
+    "img": "../src/static/img/mw-2.jpg",
+    "p_name": "Classic White",
+    "p_cate": "Premium Ts",
+    "p_price": 799
+  },
+  {
+    "id": 3,
+    "img": "../src/static/img/mw-3.jpg",
+    "p_name": "Urban Black",
+    "p_cate": "Oversized Ts",
+    "p_price": 699
+  },
+  {
+    "id": 4,
+    "img": "../src/static/img/mw-4.jpg",
+    "p_name": "Denim Blue",
+    "p_cate": "Casual Ts",
+    "p_price": 599
+  },
+  {
+    "id": 5,
+    "img": "../src/static/img/mw-5.jpg",
+    "p_name": "Sporty Red",
+    "p_cate": "Athleisure",
+    "p_price": 899
+  },
+  {
+    "id": 6,
+    "img": "../src/static/img/mw-6.jpg",
+    "p_name": "Vintage Green",
+    "p_cate": "Retro Collection",
+    "p_price": 749
+  },
+  {
+    "id": 7,
+    "img": "../src/static/img/mw-7.jpg",
+    "p_name": "Summer Yellow",
+    "p_cate": "Casual Ts",
+    "p_price": 549
+  }
+]
